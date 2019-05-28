@@ -1,0 +1,6 @@
+owner=508282392407179265
+prefix=R
+game=Malk d5l
+stayinchannel=true
+songinstatus=false
+token=NTgyNzI3MDUzMDQ0ODc1MjY0.XOyDzg.fFxrf5-GHQvuAR-Ys3ofcgD-hNA
